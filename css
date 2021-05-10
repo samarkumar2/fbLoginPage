@@ -1,0 +1,36 @@
+.row{
+    width: 300px;
+    height: 540px;
+    padding: 15px;
+    margin: 60px;
+    background-color: lightgray;
+    border-radius: 5px;
+  }
+  #heading{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-bottom:lightseagreen;
+  }
+  p{
+    color: blue;
+  }
+  
+  .button{
+    background-color: rgba(0, 0, 255, 0.651);
+    padding: 40px;
+  }
+  
+  .demo{
+    height: 25px;
+    width: 1 0px;
+    background-color: green;
+    align-content: center; display: flex;justify-content: center;
+  }
+  
+  #email, #password {
+  background-color: rgba(176, 196, 222, 0.548);
+  box-sizing: border-box;
+  border-color: rgba(0, 128, 128, 0.24);
+  }
+  
